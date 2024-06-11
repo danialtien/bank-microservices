@@ -1,7 +1,7 @@
 package com.danialtien.accounts.constant;
 
-public final class AccountConstant {
-    private AccountConstant() {
+public final class AccountsConstants {
+    private AccountsConstants() {
         // restrict instantiation
     }
 
